@@ -1,0 +1,876 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.flue img{
+    width: 100%!important;
+    position: relative;
+}
+
+.atext{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    position: absolute;
+    top: 150px;
+    left: 584px;
+    
+    
+}
+
+
+
+.hchbd h2{
+    position: absolute;
+    top: 83px;
+    left: 604px;
+    font-weight:600;
+    color: white;
+
+}
+
+
+.amenu nav{
+    width: 100%;
+    height: 100vh;
+   
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.main{
+    width: 100%;
+    height: 84px;
+    
+    font-size: 13px;
+}
+
+.main ul li{
+    font-weight: 400;
+    list-style-type: none;
+    display: inline-block;
+    position: relative;
+    top: 29px;
+    margin: 0 20px;
+    font-weight: 800;
+}
+
+.aicn{
+    width: 100%;
+    font-size: 21px;
+    font-weight: 300;
+    letter-spacing: 8px;
+    position: relative;
+    left: 100px;
+    top: 24px;
+}
+
+
+
+
+.yuvarlak{
+    font-size: 21px;
+    font-weight: 300;
+    position: relative;
+    left: 153px;
+    top: -29px;
+}
+
+.bar{
+    width: 100%;
+    height: 60px;
+    background-color: #262626;
+    position: relative;
+    position: fixed;
+}
+
+.bar img{
+    position: absolute;
+    left: 5px ;
+    top: 2px;
+}
+
+.abuttn{
+    background-color: #82B440;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 9px;
+    right: 27px;
+    width: 95px;
+    height: 38px;
+    border-radius: 7px;
+    
+}
+
+.book{
+   width: 100%;
+   height: 82px;
+   background-color: #FEF5EF;
+   position: relative;
+   
+}
+
+.heart{
+    position: absolute;
+    top: 35px;
+    right: 48px;
+}
+
+.like{
+    position: absolute;
+    top: 35px;
+    right: 236px; 
+    
+}
+
+
+
+
+
+.lite ul li{
+    color: #24262B;
+    margin: 35px;
+    font-family: Britannic Bold !important;
+    
+}
+
+.laptop{
+    width: 100%;
+    position: relative;
+}
+
+.text{
+    position: absolute;
+    top:66px;
+    left: 606px;
+    color: white;
+}
+
+.comp{
+    position: absolute;
+    top:111px;
+    left: 576px;
+    color: white; 
+}
+
+.htu{
+    position: absolute;
+    top:111px;
+    left: 639px;
+    color: white;  
+}
+
+.comp1{
+    position: absolute;
+    top:111px;
+    left: 652px;
+    color: #F79837; 
+}
+
+.gdf{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 120px;
+}
+
+.key{
+    margin-bottom: 25px;
+}
+.key img{
+    width: 100%;
+    height: 268px;
+}
+
+.onephoto{
+    margin-bottom: 19px;
+}
+
+.onephoto:hover{
+    transform: rotateY(150deg);
+    
+    /* transition-property: transform;
+    transition-duration: 1s, 0.5s;
+    transition-timing-function: ease-out;
+    transition-delay: 0s, 0s; */
+}
+
+.one p{
+    font-size: 17px;
+    color:#F79837 ;
+}
+
+.thirdphoto{
+    margin-bottom: 19px;
+}
+
+.thirdphoto:hover{
+    transform: rotateY(150deg);
+}
+
+
+.third p{
+    font-size: 17px;
+    color:#F79837 ;
+}
+
+.secondphoto{
+    margin-bottom: 19px;
+}
+
+.secondphoto:hover{
+    transform: rotateY(150deg);
+}
+
+
+.second p{
+    font-size: 17px;
+    color:#F79837 ;
+}
+
+.one1 span{      
+    font-size: 27px;
+    font-family:  Arial ;
+    font-weight: 600;
+    
+   
+}
+
+.one1 span:hover{
+    color: #F79837 ;
+    transition: 0.7s;
+}
+
+.one1 p{
+    color:#777C87 ;
+    margin-bottom: 23px;
+}
+
+.one1 button{
+    width: 178px;
+    height: 41px;
+    border: 2px solid black;
+    font-size: 18px;
+   
+}
+
+.one1 button:hover{
+    color:#F79837 ;
+    border:2px solid #F79837;
+}
+
+.second2 span{      
+    font-size: 27px;
+    font-family:  Arial ;
+    font-weight: 600;
+  
+}
+
+.second2 span:hover{
+    color: #F79837 ;
+    transition: 0.7s;
+}
+
+.second2 p{
+    color:#777C87 ;
+    margin-bottom: 23px;
+}
+
+.second2 button{
+    width: 178px;
+    height: 41px;
+    border: 2px solid black;
+    font-size: 18px;
+   
+}
+
+.second2 button:hover{
+    color:#F79837 ;
+    border:2px solid #F79837;
+}
+
+.third3 span{      
+    font-size: 27px;
+    font-family:  Arial ;
+    font-weight: 600;
+  
+}
+
+.third3 span:hover{
+    color: #F79837 ;
+    transition: 0.7s;
+}
+
+.third3 p{
+    color:#777C87 ;
+    margin-bottom: 23px;
+}
+
+.third3 button{
+    width: 178px;
+    height: 41px;
+    border: 2px solid black;
+    font-size: 18px;
+   
+}
+
+.third3 button:hover{
+    color:#F79837 ;
+    border:2px solid #F79837;
+}
+
+
+
+.clock img{
+    width: 100%;
+    height: 268px;
+}
+
+.springphoto{
+    margin-bottom: 19px;
+}
+
+.springphoto:hover{
+    transform: rotateY(150deg);
+}
+
+.spring p{
+    font-size: 17px;
+    color:#F79837 ;
+}
+
+.spring p:hover{
+    text-decoration: none;
+}
+
+
+.winterphoto{
+    margin-bottom: 19px;
+}
+
+.winterphoto:hover{
+    transform: rotateY(150deg);
+}
+
+
+.winter p{
+    font-size: 17px;
+    color:#F79837 ;
+}
+
+.summerphoto{
+    margin-bottom: 19px;
+}
+
+.summerphoto:hover{
+    transform: rotateY(150deg);
+}
+
+
+
+.summer p{
+    font-size: 17px;
+    color:#F79837 ;
+}
+
+.spring1 span{      
+    font-size: 27px;
+    font-family:  Arial ;
+    font-weight: 600;
+  
+}
+
+.spring1 span:hover{
+    color: #F79837 ;
+    transition: 0.7s;
+}
+
+.spring1 p{
+    color:#777C87 ;
+    margin-bottom: 23px;
+}
+
+.spring1 button{
+    width: 178px;
+    height: 41px;
+    border: 2px solid black;
+    font-size: 18px;
+   
+}
+
+.spring1 button:hover{
+    color:#F79837 ;
+    border:2px solid #F79837;
+
+}
+
+.summer2 span{      
+    font-size: 27px;
+    font-family:  Arial ;
+    font-weight: 600;
+  
+}
+
+.summer2 span:hover{
+    color: #F79837 ;
+    transition: 0.7s;
+}
+
+.summer2 p{
+    color:#777C87 ;
+    margin-bottom: 23px;
+}
+
+.summer2 button{
+    width: 178px;
+    height: 41px;
+    border: 2px solid black;
+    font-size: 18px;
+   
+}
+
+.summer2 button:hover{
+    color:#F79837 ;
+    border:2px solid #F79837;
+}
+
+.winter3 span{      
+    font-size: 27px;
+    font-family:  Arial ;
+    font-weight: 600;
+  
+}
+
+.winter3 span:hover{
+    color: #F79837 ;
+    transition: 0.7s;
+}
+
+.winter3 p{
+    color:#777C87 ;
+    margin-bottom: 23px;
+}
+
+.winter3 button{
+    width: 178px;
+    height: 41px;
+    border: 2px solid black;
+    font-size: 18px;
+   
+}
+
+.winter3 button:hover{
+    color:#F79837 ;
+    border:2px solid #F79837;
+}
+
+.clock{
+    margin-bottom: 25px;
+}
+
+.cup img{
+    width: 100%;
+    height: 268px;
+}
+
+.letterphoto{
+    margin-bottom: 19px;
+}
+
+.letterphoto:hover{
+    transform: rotateY(150deg);
+}
+
+
+.letter p{
+    font-size: 17px;
+    color:#F79837  ;
+}
+
+.smilephoto{
+    margin-bottom: 19px;
+}
+
+.smilephoto:hover{
+    transform: rotateY(150deg);
+}
+
+.smile p{
+    font-size: 17px;
+    color:#F79837  ;
+}
+
+.phonephoto{
+    margin-bottom: 19px;
+}
+
+
+.phonephoto:hover{
+    transform: rotateY(150deg);
+}
+
+
+.phone p{
+    font-size: 17px;
+    color:#F79837 ;
+}
+
+.letter span{      
+    font-size: 27px;
+    font-family:  Arial ;
+    font-weight: 600;
+    
+   
+}
+
+.letter span:hover{
+    color: #F79837 ;
+    transition: 0.7s;
+
+}
+
+.letter p{
+    color:#777C87 ;
+    margin-bottom: 23px;
+}
+
+.letter button{
+    width: 178px;
+    height: 41px;
+    border: 2px solid black;
+    font-size: 18px;
+   
+}
+
+.letter a p{
+    color:#F79837 ; 
+}
+
+.letter button:hover{
+    color:#F79837 ;
+    border:2px solid #F79837;
+}
+
+.phone span{      
+    font-size: 27px;
+    font-family:  Arial ;
+    font-weight: 600;
+}
+
+.phone span:hover{
+    color: #F79837 ;
+    transition: 0.7s;
+}
+
+.phone p{
+    color:#777C87 ;
+    margin-bottom: 23px;
+}
+
+.phone button{
+    width: 178px;
+    height: 41px;
+    border: 2px solid black;
+    font-size: 18px;
+   
+}
+
+.phone a p{
+    color:#F79837 ; 
+}
+
+.phone button:hover{
+    color:#F79837 ;
+    border:2px solid #F79837;
+}
+
+.cupsmile span{      
+    font-size: 27px;
+    font-family:  Arial ;
+    font-weight: 600;
+  
+}
+
+.cupsmile span:hover{
+    color:#F79837 ;
+    transition: 0.7s;
+}
+
+.smile a p{
+    color:#F79837 ; 
+}
+
+.smile a p:hover{
+    text-decoration: none;
+}
+
+
+.smile p{
+    color:#777C87 ;
+    margin-bottom: 23px;
+}
+
+.cupsmile button{
+    width: 178px;
+    height: 41px;
+    border: 2px solid black;
+    font-size: 18px;
+    
+   
+}
+
+.cupsmile button:hover{
+    color:#F79837 ;
+    border:2px solid #F79837;
+}
+
+.pagination a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    transition: bacground-color .3s;
+    border-radius: 50%;
+    background-color: #F5F5F5;
+    
+}
+
+.pagination a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.pagination a.active{
+    background-color:#F79837 ;
+    color: white;
+    box-shadow: 2px 13px 50px -11px #000000;
+}
+
+
+
+.sweet{
+    margin-top: 74px;
+}
+
+.send{
+    width: 100% ;
+    min-height: 396px ;
+    background-color: #F6F6F6 ;
+    
+
+}
+
+.hand{
+    margin-bottom: 96px;
+}
+
+.funny{
+    width: 100%;
+    margin-top: 64px;
+   
+}
+.funny img{
+    width: 315px;
+    height: 98px;
+}
+
+.funnysp{
+    font-size: 18px;
+    color: #777C87;
+}
+
+.funnyicn{
+    letter-spacing: 3px;
+    font-size: 19px;
+    margin-top: 21px;
+}
+
+.awsome{
+    width: 100%;
+    margin-top: 64px;
+    
+  
+    
+}
+
+.awsome h1{
+    font-size: 20px;
+    text-align: left;
+    color: #000;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.awsome11111{
+    color: #212529;
+    margin: 0px;
+    padding: 0px;
+    font-size: 17px;
+    list-style-type: none;
+}
+
+.awsome ul li{
+    padding: 5px;
+}
+
+.delete h1{
+    font-size: 20px;
+    text-align: left;
+    color: #000;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.delete11{
+    color: #212529;
+    margin: 0px;
+    padding: 0px;
+    font-size: 17px;
+    list-style-type: none;
+}
+
+.delete ul li{
+    padding: 5px;
+}
+
+.delete {
+    width: 100%;
+    margin-top: 64px;
+  
+}
+
+.slime h1{
+    font-size: 20px;
+    text-align: left;
+    color: #000;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.slime{
+    width: 100%;
+    margin-top: 64px;  
+}
+
+.slime h1{
+    margin-bottom: 25px;
+}
+
+.slime input{
+    font-size: 19px;
+    min-height: 43px;
+    width: 287px;
+}
+
+.slime button{
+    width: 151px;
+    height: 52px;
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+.respect{
+    width: 100%;
+    background-color: black;
+    height: 55px;
+    position: relative;
+    padding: 0;
+}
+
+.respect img{
+    width: 205px;
+    height: 44px;
+    margin-top: 6px;
+    float: left;
+    position: absolute;
+}
+
+.rest{
+    float: right;
+    width: 269px;
+    height: 44px;
+    position: absolute;
+    right: -50px;
+}
+
+/* .lite  {
+    float: left;
+    position: absolute;
+    top: -4px;
+    left: 332px;
+    font-size:14px;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    
+} */
+
+.lite{
+    position: relative;
+    bottom: 81px;  
+    left: 202px;
+    
+}
+
+.lite nav ul li{
+    
+    display: inline-block;
+    padding-left: 20px;
+    box-sizing: border-box;
+    color: #24262B;
+   
+}
+
+
+
+.lite nav ul li{
+    
+    padding: 0px;
+    
+}
+
+@media only screen and (max-width: 600px){
+    .one1 button{
+        margin-bottom: 10px;
+    }
+
+    .second2 button{
+        margin-bottom: 10px;
+    }
+
+    .spring1 button{
+        margin-bottom: 10px;
+    }
+
+    .summer2 button{
+        margin-bottom: 10px;
+    }
+
+    .letter button{
+        margin-bottom: 10px;
+    }
+
+    .phone button{
+        margin-bottom: 10px;
+    }
+
+    .smile{
+        margin-bottom: 10px;
+    }
+
+    .send{
+        margin-bottom: 10px;
+    }
+    .flue img{
+        width: 110px;
+        height: 77px;
+    }
+}
+
+@media only screen and (min-width: 600px){
+    .flue img{
+        width: 110px;
+        height: 77px;
+    }
+}
